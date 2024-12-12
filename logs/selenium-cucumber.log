@@ -1,0 +1,312 @@
+2024-12-11 14:03:23 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 14:03:23 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 14:03:41 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 14:03:42 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 14:03:46 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 14:03:46 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 14:03:58 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 14:04:00 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 14:04:02 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 14:04:02 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 14:04:14 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 14:04:19 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 14:10:50 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 14:10:50 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 14:11:02 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 14:11:03 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 14:11:06 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 14:11:06 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 14:11:19 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 14:11:20 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 14:11:22 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 14:11:22 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 14:11:35 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 14:11:42 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 14:50:04 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 14:50:04 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 14:50:17 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 14:50:20 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 14:50:23 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 14:50:23 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 14:50:35 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 14:50:38 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 14:50:40 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 14:50:40 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 14:50:52 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 14:50:55 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 17:43:52 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 17:43:52 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 17:44:12 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 17:44:19 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 17:44:19 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 17:44:30 [main] INFO  utils.Log - Log: Validate product name matches from its column in feature file
+2024-12-11 17:44:41 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 17:44:46 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 17:44:46 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 17:44:58 [main] INFO  utils.Log - Log: Validate product name matches from its column in feature file
+2024-12-11 17:45:04 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 17:45:10 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 17:45:10 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 17:45:28 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 17:45:32 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 17:45:37 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 17:45:37 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 17:45:57 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 17:46:01 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 17:46:05 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 17:46:05 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 17:46:23 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 17:46:33 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 17:51:52 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 17:51:52 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 17:52:07 [main] INFO  utils.Log - Log: Validate product name matches from its column in feature file
+2024-12-11 17:52:18 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 17:52:22 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 17:52:22 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 17:52:40 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 17:52:43 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 17:52:47 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 17:52:47 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 17:53:05 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 17:53:08 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 17:53:13 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 17:53:13 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 17:53:31 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 17:53:40 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 17:57:32 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 17:57:32 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 17:57:47 [main] INFO  utils.Log - Log: Validate product name matches from its column in feature file
+2024-12-11 17:57:57 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 18:00:43 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 18:00:43 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 18:01:05 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 19:47:43 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 19:47:43 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 19:47:51 [main] INFO  utils.Log - Log: Validate product name matches from its column in feature file
+2024-12-11 19:47:53 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 19:52:00 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 19:52:00 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 19:52:09 [main] INFO  utils.Log - Log: Validate product name matches from its column in feature file
+2024-12-11 19:52:09 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 19:54:39 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 19:54:39 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 19:54:47 [main] INFO  utils.Log - Log: Validate product name matches from its column in feature file
+2024-12-11 19:54:49 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 20:01:02 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 20:01:02 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 20:01:10 [main] INFO  utils.Log - Log: Validate product name matches from its column in feature file
+2024-12-11 20:01:11 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 21:46:32 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 21:46:32 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 21:46:40 [main] INFO  utils.Log - Log: Validate product name matches from its column in feature file
+2024-12-11 21:46:43 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 21:46:45 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 21:46:45 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 21:46:58 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 21:47:00 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 21:47:02 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 21:47:02 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 21:47:16 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 21:47:16 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 21:47:18 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 21:47:18 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 21:47:31 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 21:47:34 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 21:48:34 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 21:48:34 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 21:48:42 [main] INFO  utils.Log - Log: Validate product name matches from its column in feature file
+2024-12-11 21:48:43 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 21:48:45 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 21:48:45 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 21:48:58 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 21:48:59 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 21:49:00 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 21:49:00 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 21:49:14 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 21:49:16 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 21:49:18 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 21:49:18 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 21:49:31 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 21:49:35 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 21:52:55 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 21:52:55 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 21:53:03 [main] INFO  utils.Log - Log: Validate product name matches from its column in feature file
+2024-12-11 21:53:03 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 21:54:24 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 21:54:24 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 21:54:32 [main] INFO  utils.Log - Log: Validate product name matches from its column in feature file
+2024-12-11 21:54:33 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 21:54:35 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 21:54:35 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 21:54:48 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 21:54:49 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 21:56:04 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 21:56:04 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 21:56:12 [main] INFO  utils.Log - Log: Validate product name matches from its column in feature file
+2024-12-11 21:56:13 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 21:56:15 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 21:56:15 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 21:56:28 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 21:56:29 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 21:57:17 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 21:57:17 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 21:57:25 [main] INFO  utils.Log - Log: Validate product name matches from its column in feature file
+2024-12-11 21:57:26 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 21:57:28 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 21:57:28 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 21:57:41 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 21:57:42 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 21:58:42 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 21:58:42 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 21:58:55 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 21:58:58 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 21:59:55 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 21:59:55 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 22:00:03 [main] INFO  utils.Log - Log: Validate product name matches from its column in feature file
+2024-12-11 22:00:04 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 22:00:06 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 22:00:06 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 22:00:19 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 22:00:21 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 23:22:47 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 23:22:47 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 23:22:57 [main] INFO  utils.Log - Log: Validate product name matches from its column in feature file
+2024-12-11 23:23:00 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 23:23:04 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 23:23:04 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 23:23:20 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 23:23:21 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 23:23:24 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 23:23:24 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 23:23:39 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 23:23:42 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 23:23:45 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 23:23:45 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 23:24:01 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 23:24:08 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 23:26:51 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 23:26:52 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 23:27:05 [main] INFO  utils.Log - Log: Validate product name matches from its column in feature file
+2024-12-11 23:27:13 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 23:27:16 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 23:27:16 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 23:27:35 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 23:27:39 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 23:27:42 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 23:27:42 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 23:28:00 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 23:28:05 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 23:28:09 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 23:28:09 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 23:28:29 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 23:28:40 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 23:30:57 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 23:30:57 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 23:31:11 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 23:31:13 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 23:31:13 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 23:31:29 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 23:31:30 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 23:31:33 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 23:31:33 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 23:31:48 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 23:31:49 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 23:31:52 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 23:31:52 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 23:32:06 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 23:32:12 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 23:32:38 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 23:32:38 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 23:32:47 [main] INFO  utils.Log - Log: Validate product name matches from its column in feature file
+2024-12-11 23:32:51 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 23:32:53 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 23:32:54 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 23:33:08 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 23:33:09 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 23:33:12 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 23:33:12 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 23:33:26 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 23:33:27 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 23:33:29 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 23:33:29 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 23:33:44 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 23:33:49 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 23:37:11 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 23:37:11 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 23:37:20 [main] INFO  utils.Log - Log: Validate product name matches from its column in feature file
+2024-12-11 23:37:26 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 23:37:29 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 23:37:29 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 23:37:44 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 23:37:47 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 23:37:50 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 23:37:50 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 23:38:05 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 23:38:06 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 23:38:09 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 23:38:09 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 23:38:25 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 23:38:31 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 23:49:43 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 23:49:43 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 23:50:12 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 23:50:17 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 23:50:17 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 23:50:38 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 23:50:45 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 23:50:50 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 23:50:50 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 23:51:12 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 23:51:15 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-11 23:51:20 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-11 23:51:20 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-11 23:51:41 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-11 23:52:00 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-12 00:06:24 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-12 00:06:24 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-12 00:06:32 [main] INFO  utils.Log - Log: Validate product name matches from its column in feature file
+2024-12-12 00:06:34 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-12 00:06:36 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-12 00:06:36 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-12 00:06:50 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-12 00:06:52 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-12 00:06:54 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-12 00:06:54 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-12 00:07:09 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-12 00:07:10 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-12 00:07:12 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-12 00:07:12 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-12 00:07:25 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-12 00:07:27 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-12 18:16:16 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-12 18:16:16 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-12 18:16:24 [main] INFO  utils.Log - Log: Validate product name matches from its column in feature file
+2024-12-12 18:16:25 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-12 18:16:27 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-12 18:16:27 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-12 18:16:40 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-12 18:16:40 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-12 18:16:42 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-12 18:16:42 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-12 18:16:55 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-12 18:16:56 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-12 18:16:58 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-12 18:16:58 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-12 18:17:12 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-12 18:17:16 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-12 18:18:48 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-12 18:18:48 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-12 18:18:56 [main] INFO  utils.Log - Log: Validate product name matches from its column in feature file
+2024-12-12 18:18:57 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-12 18:19:01 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-12 18:19:01 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-12 18:19:14 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-12 18:19:17 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-12 18:19:19 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-12 18:19:19 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-12 18:19:33 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-12 18:19:36 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases
+2024-12-12 18:19:38 [main] INFO  stepDefinitionsKart.Hooks - Log4j is initialized in Hooks
+2024-12-12 18:19:38 [main] INFO  stepDefinitionsKart.Hooks.Log - This is a test log message from Hooks to confirm Log4j is working.
+2024-12-12 18:19:51 [main] INFO  utils.Log - Log: Validate product name in offers page matches with Landing page
+2024-12-12 18:19:57 [main] INFO  stepDefinitionsKart.Hooks.ReporterLogger - hooks ReporterLogger - all : Clear the entries for all databases

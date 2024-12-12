@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/SeleniumProject/NewCucumber">
+        <classes>
+            <!--
+            <class name="org.example.App"></class>
+			<class name="org.example.SampleService"></class>
+			<class name="org.example.TestNG_TestClass2"></class>-->
+            <!-- 运行 test.java.cucumberOptions 包下的 TestNGRunner 类 -->
+            <class name="cucumberOptions.TestNGRunnerKart"/>
+    </classes>
+</test>
+        </suite>
