@@ -69,7 +69,7 @@ public class Log {
         public void AddScreenshot (Scenario scenario) throws Exception {
           //  tackTakeScreenshot when step is failed
         if (scenario.isFailed()) {
-            //screenshot
+            //catch failed screenshot
             File sourcePath=((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
             byte[] fileContent=FileUtils.readFileToByteArray(sourcePath);
             scenario.attach(fileContent,"image/jpg", "image");

@@ -8,8 +8,10 @@ import org.testng.annotations.DataProvider;
         tags="@smoke",  // tags="not @Regression"
         glue= {"stepDefinitionsKart"},
         monochrome = true,
-        plugin = {"pretty", "html:target/cucumber-kart.html",
-                "json:target/cucumber-kart.json",
+        plugin = {"pretty",
+                "rerun:test-output/failed_scenarios.txt",
+                "html:test-output/cucumber-kart.html",
+                "json:test-output/cucumber-kart.json",
                 "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"
 }
 )
